@@ -8,6 +8,11 @@ export default ({
     public: {
       botId: process.env.NUXT_APP_BOT_ID,
       chatId: process.env.NUXT_APP_CHAT_ID,
+      // baseUrl: process.env.BASE_URL || 'http://localhost:3000',
     }
   }
 })
+
+
+
+
